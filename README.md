@@ -1,3 +1,3 @@
 # Flash-card
 
-![](Reference.gif)
+![](Reference.gif align="center")
